@@ -38,6 +38,11 @@ assets/
 
 - Built by [Calson] while taking the Responsive Web Design Course at [freeCodeCamp](https://www.freecodecamp.org/certification/fccc542f13f-414a-4555-9773-cc51881c47b1/responsive-web-design).
 
+## Contact
+
+- **WhatsApp:** 681849054 or 678112223  
+- **Email:** cooljimmy974@gmail.com
+
 ## License
 
 This project is for educational purposes.
